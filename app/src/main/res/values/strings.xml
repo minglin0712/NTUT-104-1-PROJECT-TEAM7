@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LotteryGet</string>
+    <string name="title_activity_splash">Splash</string>
+</resources>
